@@ -20,13 +20,6 @@
   /></a>
 </p>
 
-<p align="left" style="margin-bottom: 20px;">
-  <a href="https://twitter.com/yousefbadry2004" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/yousefbadry2004?logo=twitter&style=for-the-badge"
-      alt="yousefbadry2004"
-  /></a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="margin-bottom: 20px;">
