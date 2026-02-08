@@ -5,8 +5,8 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=youssefelbadry&label=Profile%20views&color=0e75b6&style=flat"
-    alt="youssefelbadry"
+    src="https://komarev.com/ghpvc/?username=youssefelbadry&label=Profile%20Views&color=1f6feb&style=for-the-badge"
+    alt="Profile Views"
   />
 </p>
 
@@ -15,6 +15,16 @@
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     width="500"
   />
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/129et5kF9cMrpwDLaxnv5TjtC8Kudxj_-?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/MY%20CV-23272e?style=for-the-badge&logo=google-drive&logoColor=34A853" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-a83ec.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/MY%20PORTFOLIO-23272e?style=for-the-badge&logo=google-chrome&logoColor=4285F4" height="45"/>
+  </a>
 </p>
 
 ---
@@ -59,7 +69,6 @@ structured, and scalable backend systems using **Node.js** and **NestJS**.
 ---
 
 ## 🛠️ Tech Stack
-
 ### 🎨 Frontend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
@@ -94,6 +103,36 @@ structured, and scalable backend systems using **Node.js** and **NestJS**.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
+</p>
+
+---
+
+---
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/elbadry-dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/elbadrytech" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="45" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/elbadry_tech" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="45" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:youssefelbadry10@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@youssefelbadry" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="45" alt="YouTube"/>
+  </a>
 </p>
 
 ---
