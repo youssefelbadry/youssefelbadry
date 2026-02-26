@@ -69,6 +69,7 @@ structured, and scalable backend systems using **Node.js** and **NestJS**.
 ---
 
 ## 🛠️ Tech Stack
+
 ### 🎨 Frontend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
@@ -107,42 +108,45 @@ structured, and scalable backend systems using **Node.js** and **NestJS**.
 
 ---
 
----
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/elbadry-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/elbadrytech" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="45" alt="Facebook"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/elbadry_tech" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="45" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:youssefelbadry10@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@youssefelbadry" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="45" alt="YouTube"/>
-  </a>
+<a href="mailto:youssefelbadry10@gmail.com">
+  <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/>
+</a> &nbsp;
+
+<a href="https://linkedin.com/in/elbadry-dev">
+  <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/>
+</a> &nbsp;
+
+<a href="https://wa.me/qr/LYBIHR2J4RVGH1">
+  <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/>
+</a> &nbsp;
+
+<a href="https://www.youtube.com/@elbadry-tech">
+  <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50"/>
+</a> &nbsp;
+
+<a href="https://leetcode.com/u/youssefelbadry/">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="50"/>
+</a> &nbsp;
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=youssefelbadry&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=youssefelbadry&theme=github_dark" height="176"/> &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youssefelbadry&theme=github_dark" height="176"/>
 </p>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=youssefelbadry&theme=highcontrast" height="176"/>
+</p>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssefelbadry&theme=github_dark)
+![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ⭐️ From [Youssef Elbadry](https://github.com/youssefelbadry)
